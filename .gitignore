@@ -1,0 +1,13 @@
+target
+.idea/
+*.iml
+*.ipr
+*.iws
+nb*.xml
+.project
+.classpath
+.DS_Store
+.cproject
+.settings/
+Release/
+.ino.cpp
